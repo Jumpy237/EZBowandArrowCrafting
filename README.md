@@ -1,7 +1,7 @@
 # EZBowandArrowCrafting
 This mod makes crafting bow and arrow easier.
 
-required mod : [Mod Loader](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller/releases)
+**required mod : [Mod Loader](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller/releases)**
 
 ## Survival Bow
 ![alt text](https://i.imgur.com/A6xdlTk.jpg)
